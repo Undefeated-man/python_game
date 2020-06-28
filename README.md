@@ -1,2 +1,2 @@
 # python_game
- using pygame to create my game
+ Using pygame to create my game
